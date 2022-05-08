@@ -1,0 +1,18 @@
+CREDITS: 
+
+Title:
+    Boss Battle #2 ["8 bit"]
+
+Author:
+    nene
+
+URL:
+    https://opengameart.org/content/boss-battle-2-8-bit
+
+License(s):
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * boss_battle_#2.mid
+    * boss_battle_#2.WAV
+

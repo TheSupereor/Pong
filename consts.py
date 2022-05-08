@@ -1,0 +1,31 @@
+LARGURA = 1280
+ALTURA = 960
+
+TITULO_JOGO = 'Pong Supreme Master Race'
+
+FPS = 100
+MS_PER_UPDATE = 1000 / FPS
+
+PRETO = (0, 0, 0)
+BRANCO = (240, 240, 240)
+OURO = (255, 215, 0)
+
+FONT = 'arial'
+FONT_SIZE = 30
+
+LOGO_INICIAL = 'pongTitle-01.png'
+MUSICA_MENU_INICIAL = 'menu.mp3'
+START_GAME = 'gameStart.wav'
+MUSICA_JOGO = 'gameMusic.WAV'
+MUSICA_PONTO = 'score.mp3'
+MUSICA_VITORIA = 'gamewon.wav'
+
+# JOGADORES
+PLAYER_SPEED = 8
+OPPONENT_SPEED = 6
+
+# BOLA, movendo a 500 pixels por segundo
+BALL_X_SPEED = 0.5
+BALL_Y_SPEED = 0.5
+
+AUMENTO_DIFICULDADE = 1 / 10000
